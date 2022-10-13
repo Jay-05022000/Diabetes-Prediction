@@ -1,0 +1,11 @@
+--------------------------------------Diabetes Prediction ------------------------------------------------------
+
+Model : Random Forest classifier
+
+
+Dataset :Features = Gender,AGE,Urea,Cr,HbA1c,Chol,TG,HDL,LDL,VLDL,BMI
+         Class= Yes,No,Predicted
+
+
+Results : Accuracy on test set:98.387
+          Model's True accuracy is:96.530
